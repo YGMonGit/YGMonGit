@@ -30,11 +30,9 @@
 
 - 🌱 I’m currently learning Nextjs
 
-- 🤖 I like developing websites
+- 🤖 I enjoy developing websites and crafting unique logos
   
-- 👨‍💻 All of my projects are available at **https://github.com/YGMonGit**
-
-- 📫 How to reach me **yisehakgetachew5@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/YGMonGit](https://github.com/YGMonGit)
   
 ## Connect with me
 <div align="start"> 
