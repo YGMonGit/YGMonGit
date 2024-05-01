@@ -36,7 +36,7 @@
 
 - 📫 How to reach me **yisehakgetachew5@gmail.com**
 <div align="start"> 
-  <a href="yisehakgetachew5@gmail.com">
+  <a href="mailto:yisehakgetachew5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/yisehak-getachew-887b12290/" target="_blank">
