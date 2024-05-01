@@ -4,16 +4,10 @@
 [![](https://visitcount.itsvg.in/api?id=ygmongit&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
-  
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Yisehak Getachew</h1></summary>
-  </ul>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yisehak+Getachew!;" />
+</h1>
 
 
 <!--- snake -->
@@ -26,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate Ethiopian full stack developer</h2></summary>
   </ul>
 </div>
 
@@ -41,11 +35,22 @@
 - 👨‍💻 All of my projects are available at **https://github.com/YGMonGit**
 
 - 📫 How to reach me **yisehakgetachew5@gmail.com**
+<div align="start"> 
+  <a href="yisehakgetachew5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 <!--Intro end-->
 <br />
 <samp>
   <a href="https://github.com/ygmongit/">
-    <img alt="Yisehak's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ygmongit&theme=github-compact&hide_border=true" />
+    <img alt="Yisehak Getachew's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ygmongit&theme=github-compact&hide_border=true&title=Yisehak%20Getachew%27s%20Activity%20Graph" />
   </a>
   <br/>
 </samp>
@@ -57,14 +62,14 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mikiyaset&theme=dark&show_icons=true&count_private=true&hide_border=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ygmongit&theme=dark&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mikiyaset&theme=dark&hide_border=true" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ygmongit&theme=dark&hide_border=true" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mikiyaset&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ygmongit&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -74,7 +79,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mikiyaset&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ygmongit&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
