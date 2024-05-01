@@ -18,8 +18,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://camo.githubusercontent.com/13912a14cf249ffd3f74baed134672adbcaddc2289821e5199520532d9e416c0/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f336879636f61612d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3830302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f6a38776f3966316d6f75366735343639363731682e676966"
-       alt="Hello World" /></a>
+  <img  src="banner.svg"
+       alt="snake" /></a>
 </div>
 
 
@@ -32,20 +32,20 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Nodejs, Flutter, MySQL**
+- 🔭 I’m currently working on **React, Nodejs, Flutter**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning Nextjs
 
-- 🤖 I like developing telegram bots
+- 🤖 I like developing websites
+  
+- 👨‍💻 All of my projects are available at **https://github.com/YGMonGit**
 
-- 📫 Feel free to reach me out **mikiyaslemlemu@gmail.com**
-
-- 🏠 Also I've a tech company called [Codeabay](https://codeabay.com/).
+- 📫 How to reach me **yisehakgetachew5@gmail.com**
 <!--Intro end-->
 <br />
 <samp>
-  <a href="https://github.com/mikiyaset/">
-    <img alt="Mika's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mikiyaset&theme=github-compact&hide_border=true" />
+  <a href="https://github.com/ygmongit/">
+    <img alt="Yisehak's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ygmongit&theme=github-compact&hide_border=true" />
   </a>
   <br/>
 </samp>
