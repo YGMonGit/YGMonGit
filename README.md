@@ -39,7 +39,7 @@
   <a href="mailto:yisehakgetachew5@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/yisehak-getachew-887b12290/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/yisehak-getachew/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://t.me/ygPrim" style="text-decoration: none;">
