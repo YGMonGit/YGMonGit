@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Nodejs, Flutter**
 
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning React Native
 
 - 🤖 I enjoy developing websites and crafting unique logos
   
